@@ -2,8 +2,8 @@
 
 The VulnerabiltiesScanner.py is a simple code to simply scan and return the banners/flags of some ports in metasploitable 
 which are printed into the VulDiscoverd file
-The VulScanner.py scans the host which is the metasploitable 
-and compares the list of some possible vulnerabilities/banners in the VulnerableFlags.txt 
+The VulScanner.py scans the target which is the metasploitable 
+and compares the list of some possible ports/banners in the VulnerableFlags.txt 
 and print out the possible vulnerability/banner that can be exploited in the metasploitable
 The VulnerableFlags.txt can be add with more banners.
 The Ports to scan are;
